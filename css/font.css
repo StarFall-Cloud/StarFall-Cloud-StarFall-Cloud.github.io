@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'JetBrains Mono';
+    font-display: swap;
+    src: url('../font/JetBrainsMono-Regular.ttf') format("truetype");
+}
+
+@font-face{
+    font-family: 'LanTingTiXu-GuoFengXingKai-2';
+    font-display: swap;
+    src: url(../font/LanTingTiXu-GuoFengXingKai-2.ttf) format("truetype");
+}
+
+body {
+    font-family: 'JetBrains Mono','LanTingTiXu-GuoFengXingKai-2';
+}
